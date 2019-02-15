@@ -1,0 +1,15 @@
+.down{
+	margin-top: 50px;
+}
+.erro{		
+	color: red;
+	font-size: 15px;
+	/*margin-bottom: 5px;*/
+}
+button{
+	padding-top: 5px;
+}
+img {
+    height: 80px;
+    width: 90px;
+}
